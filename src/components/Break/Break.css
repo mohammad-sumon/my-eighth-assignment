@@ -1,0 +1,20 @@
+.break-content{
+    background-color: rgba(128, 128, 128, 0.194);
+    border-radius: 20px;
+    margin: 20px 50px;
+    padding: 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.break-content p{
+    background-color: orangered;
+    border-radius: 10px;
+    color: white;
+    font-size: 18px;
+    padding: 15px;
+    margin: 20px;
+}
+.break-content p:hover{
+    cursor: pointer;
+}

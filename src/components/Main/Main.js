@@ -1,4 +1,5 @@
 import React from 'react';
+import Break from '../Break/Break';
 import Header from '../Header/Header';
 import Info from '../Info/Info';
 import './Main.css';
@@ -11,6 +12,7 @@ const Main = () => {
             </div>
             <div className="details-container">
                 <Info></Info>
+                <Break></Break>
             </div>
         </div>
     );
