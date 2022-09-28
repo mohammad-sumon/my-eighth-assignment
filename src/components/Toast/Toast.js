@@ -4,7 +4,7 @@ import './Toast.css';
 const Toast = () => {
     return (
         <div>
-            <button className='btn'>Activity Completed</button>
+            <button className='btn btn-danger'>Activity Completed</button>
         </div>
     );
 };
