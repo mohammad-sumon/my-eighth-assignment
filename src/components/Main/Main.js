@@ -3,6 +3,7 @@ import Break from '../Break/Break';
 import Exercise from '../Exercise/Exercise';
 import Header from '../Header/Header';
 import Info from '../Info/Info';
+import Toast from '../Toast/Toast';
 import './Main.css';
 
 const Main = () => {
@@ -15,6 +16,7 @@ const Main = () => {
                 <Info></Info>
                 <Break></Break>
                 <Exercise></Exercise>
+                <Toast></Toast>
             </div>
         </div>
     );
