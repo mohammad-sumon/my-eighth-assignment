@@ -1,0 +1,22 @@
+.info-data{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 20px;
+}
+.my-img{
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+    margin-right: 20px;
+}
+.info-container{
+    background-color: rgba(128, 128, 128, 0.194);
+    border-radius: 20px;
+    margin: 20px 50px;
+    padding: 10px;
+}
+.info-details{
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+}

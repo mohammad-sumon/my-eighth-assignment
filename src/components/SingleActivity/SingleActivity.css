@@ -1,7 +1,13 @@
 .card{
-    box-shadow: 5px 8px 15px gray;
+    box-shadow: 2px 4px 10px rgba(255, 68, 0, 0.468);
 }
 
 .card-img-top{
     width: 100%;
+}
+
+.btn{
+    background-color: orangered;
+    color: white;
+    border: none;
 }

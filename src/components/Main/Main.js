@@ -1,5 +1,6 @@
 import React from 'react';
 import Header from '../Header/Header';
+import Info from '../Info/Info';
 import './Main.css';
 
 const Main = () => {
@@ -9,7 +10,7 @@ const Main = () => {
                 <Header></Header>
             </div>
             <div className="details-container">
-                <h2>this is details</h2>
+                <Info></Info>
             </div>
         </div>
     );

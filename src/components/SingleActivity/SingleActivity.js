@@ -11,7 +11,7 @@ const SingleActivity = ({data}) => {
             <div className="card-body">
                 <h5 className="card-title">{activity_name}</h5>
                 <p className="card-text">Time: {time}</p>
-                <button className='btn btn-primary'>Add To List</button>
+                <button className='btn btn-danger'>Add To List</button>
             </div>
             </div>
         </div>

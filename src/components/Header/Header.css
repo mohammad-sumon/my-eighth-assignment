@@ -5,7 +5,9 @@
     justify-content: center;
     align-items: center;
 }
-
+.header h1{
+    color: orangered;
+}
 .logo{
     width: 45px;
     border-radius: 10px;
