@@ -1,0 +1,14 @@
+.main{
+    display: flex;
+    justify-content: space-between;
+}
+
+.activities-container{
+    border: 1px solid black;
+    width: 65%;
+}
+
+.details-container{
+    border: 1px solid red;
+    width: 35%;
+}

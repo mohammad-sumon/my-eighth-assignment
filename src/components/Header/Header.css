@@ -1,0 +1,17 @@
+.header{
+    text-align: center;
+    margin-top: 50px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.logo{
+    width: 45px;
+    border-radius: 10px;
+    margin-right: 20px;
+}
+
+.subtitle{
+    margin-top: 20px;
+}
