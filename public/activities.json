@@ -1,0 +1,38 @@
+[
+    {
+        "id": "1",
+        "activity_name": "Pushups",
+        "img": "https://unsplash.com/photos/ISg1JhN_vFk",
+        "time": "40s"
+    },
+    {
+        "id": "2",
+        "activity_name": "Squats",
+        "img": "https://unsplash.com/photos/TuzrzArccvc",
+        "time": "30s"
+    },
+    {
+        "id": "3",
+        "activity_name": "Dumbell",
+        "img": "https://unsplash.com/photos/cLWyv4YTbJw",
+        "time": "35s"
+    },
+    {
+        "id": "4",
+        "activity_name": "Planks",
+        "img": "https://unsplash.com/photos/ISg1JhN_vFk",
+        "time": "30s"
+    },
+    {
+        "id": "5",
+        "activity_name": "Treadmill",
+        "img": "https://unsplash.com/photos/iXdTuFxr0aQ",
+        "time": "20s"
+    },
+    {
+        "id": "6",
+        "activity_name": "Aerobics",
+        "img": "https://unsplash.com/photos/gJtDg6WfMlQ",
+        "time": "50s"
+    }
+]
