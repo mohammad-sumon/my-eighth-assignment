@@ -1,3 +1,7 @@
 .card{
-    border: 2px solid green;
+    box-shadow: 5px 8px 15px gray;
+}
+
+.card-img-top{
+    width: 100%;
 }
